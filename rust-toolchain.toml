@@ -1,0 +1,4 @@
+# windows-gnu's raw-dylib support needs dlltool.exe on PATH; the MSVC
+# toolchain has no such requirement, so pin this project to it.
+[toolchain]
+channel = "stable-x86_64-pc-windows-msvc"

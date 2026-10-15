@@ -1,0 +1,5 @@
+/target
+/scripts
+/examples
+/.temp
+*.log
